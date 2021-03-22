@@ -6,6 +6,6 @@ This application was created in part with the WebDevlopment Bootcamp courses tak
 
 This application was built to show CRUD functionality, Content Security Policies, The use of API's, Express.
 
-lso to show knowledge of nodejs and npm;
+Also to show knowledge of nodejs and npm;
 
 Added functionality such as starability, Maps and passport included using the node package manager.
