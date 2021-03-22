@@ -10,6 +10,6 @@ Also to show knowledge of nodejs and npm;
 
 Added functionality such as starability, Maps and passport included using the node package manager.
 
-link below as well:
+Link to the demo is below:
 
 https://sheltered-atoll-93665.herokuapp.com/
