@@ -2,7 +2,7 @@
 
 A published demo application of camp Locations. Where a user can sign up view, create , delete campgrounds.
 
-This application was created in part with the WebDevlopment Bootcamp courses taken in 2020. 
+This application was created in correspondence with the WebDevlopment Bootcamp courses taken in 2020, 
 
 This application was built to show CRUD functionality, Content Security Policies, The use of API's, Express.
 
