@@ -13,3 +13,5 @@ Added functionality such as starability, Maps and passport included using the no
 Link to the demo below:
 
 https://sheltered-atoll-93665.herokuapp.com/
+
+<a href="https://sheltered-atoll-93665.herokuapp.com/"><img src="./YelpCamp.png" /></a>
