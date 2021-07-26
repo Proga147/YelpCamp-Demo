@@ -18,6 +18,6 @@ https://sheltered-atoll-93665.herokuapp.com/
 
 
 
-<strong style="font-size:30px">HOME PAGE:-</strong>
+<strong style="font-size:30px;">HOME PAGE:-</strong>
 
 <a href="https://sheltered-atoll-93665.herokuapp.com/campgrounds"><img src="./yelp.png" /></a>
